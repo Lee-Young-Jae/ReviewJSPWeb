@@ -40,8 +40,8 @@
 	}
 
 	// 이용자에게 메세지 전송
-	String host = "http://211.252.126.60:8081/review/"; 
-	String from = "haneul.ori.com@gmail.com";
+	String host = "http://주소/review/"; 
+	String from = "송신자@gmail.com";
 	String to = userDAO.getUserEmail(userID);
 	String subject = "리뷰작성을 위한 이메일 확인 메일입니다.";
 	String content = "다음 링크에 접속하여 이메일 확인을 진행하세요. " +
