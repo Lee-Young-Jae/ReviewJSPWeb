@@ -48,7 +48,7 @@
 #pagination a {display:inline-block;margin-right:10px;}
 #pagination .on {font-weight: bold; cursor: default;color:#777;}
 </style>
-<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=7fea230a80820eb7b6d1831851de58fe&libraries=services"></script>
+<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey={본인 키 }&libraries=services"></script>
 </head>
 <body>
 
